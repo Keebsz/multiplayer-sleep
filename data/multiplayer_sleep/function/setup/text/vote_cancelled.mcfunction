@@ -1,0 +1,1 @@
+execute run tellraw @a {"text":"The player is no longer sleeping. Vote Cancelled","color":"gray"}

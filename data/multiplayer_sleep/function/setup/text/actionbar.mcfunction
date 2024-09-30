@@ -1,0 +1,1 @@
+execute run title @a actionbar ["",{"score":{"name":"Global","objective":"MultiplayerSleep.Vote"},"color":"gray"},{"text":"/","color":"gray"},{"score":{"name":"PlayersNeeded","objective":"MultiplayerSleep.PlayerCount"},"color":"gray"},{"text":" voted to skip the time","color":"gray"}]

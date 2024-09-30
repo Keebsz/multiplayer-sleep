@@ -1,0 +1,1 @@
+execute as @a[tag=MultiplayerSleep.Voted,scores={Sleep.Vote=1}] run tellraw @s {"text":"You've already voted.","color":"gray"}

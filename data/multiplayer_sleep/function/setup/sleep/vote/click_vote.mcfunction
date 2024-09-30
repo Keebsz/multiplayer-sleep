@@ -1,0 +1,1 @@
+execute as @a[tag=MultiplayerSleep.Voted] run scoreboard players set @s Sleep.Vote 1
